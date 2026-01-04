@@ -1,0 +1,7 @@
+{
+  "name": "Le Grand Space",
+  "description": "High-conversion web engineering for local service businesses. Fast, transparent, and lead-focused design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
